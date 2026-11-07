@@ -189,3 +189,6 @@ This repository serves as the official landing page for Active@ DVD Eraser. The 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Active@ DVD Eraser today!**
+
+---
+**Last updated:** 2026-11-07 03:37:39 UTC
